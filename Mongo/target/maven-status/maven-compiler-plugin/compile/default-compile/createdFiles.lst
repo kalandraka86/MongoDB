@@ -1,0 +1,11 @@
+examples/Id.class
+examples/IdCodec.class
+examples/Caja.class
+examples/Ordenador.class
+examples/PortatilCodec.class
+examples/Sobremesa.class
+examples/PortatilCodecProvider.class
+examples/SobremesaCodec.class
+examples/QuickStart.class
+examples/Movie.class
+examples/Portatil.class
